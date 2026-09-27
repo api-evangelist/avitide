@@ -1,0 +1,108 @@
+generated: '2026-09-27'
+method: derived
+source: the pre-flight dossier, apis.yml pointers, spec servers, well-known, vendors -- nothing fetched here
+generator: derive-hosts.py
+summary:
+  hosts: 8
+  own: 8
+  other_domain: 0
+  platform: 0
+  roles:
+  - api
+  - identity
+  - other
+  - website
+hosts:
+- host: api.repligen.com
+  found_by:
+  - contract-discovery
+  types: []
+  serves: []
+  registrable_domain: repligen.com
+  role: api
+  relation: own
+- host: capabilities.repligen.com
+  found_by:
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: repligen.com
+  role: other
+  relation: own
+- host: go.repligen.com
+  found_by:
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: repligen.com
+  role: other
+  relation: own
+- host: investors.repligen.com
+  found_by:
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: repligen.com
+  role: other
+  relation: own
+- host: login.repligen.com
+  found_by:
+  - probed
+  - site-links
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: repligen.com
+  role: identity
+  relation: own
+- host: portal.repligen.com
+  found_by:
+  - probed
+  - site-links
+  - docs-index
+  - well-known
+  types: []
+  serves:
+  - docs
+  registrable_domain: repligen.com
+  role: other
+  relation: own
+- host: store.repligen.com
+  found_by:
+  - probed
+  - site-links
+  - well-known
+  types: []
+  serves: []
+  platform: shopify.com
+  registrable_domain: repligen.com
+  role: other
+  relation: own
+- host: www.repligen.com
+  found_by:
+  - pointer
+  - probed
+  - contract-discovery
+  - well-known
+  - vendor-detect
+  types:
+  - Support
+  - PrivacyPolicy
+  - Login
+  - Leadership
+  - Website
+  serves:
+  - cdn
+  vendor: cloudflare
+  registrable_domain: repligen.com
+  role: website
+  relation: own

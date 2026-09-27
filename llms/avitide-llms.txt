@@ -1,0 +1,252 @@
+---
+title: Repligen | Inspiring advances in bioprocessing
+description: Our mission is to inspire advances in bioprocessing as a trusted partner in the production of biologic drugs that improve human health worldwide.
+image: https://www.repligen.com/Social/repligen_default_twitter_card_image.png
+---
+
+# Bioprocessing Solutions that Accelerate Process Development and Manufacturing
+
+From mAbs and ADCs to mRNA, cell and gene therapy, Repligen helps teams improve yield, reduce risk, and scale with confidence.
+
+[Explore Solutions by Modality](https://www.repligen.com/modalities)
+
+[Speak to an Expert](https://www.repligen.com/support/contact-overview/contact)
+
+###### Solutions by Modality
+
+### Start with your modality. Build the right process.
+
+Each modality requires a different process strategy. We help you align the right technologies to improve yield, protect product quality, and scale with fewer surprises.
+
+![3D molecular visualization of a monoclonal antibody (mAb) structure used in biologics development and therapeutic manufacturing.](https://www.repligen.com/Categories/21518/image-thumb__21518__width278/monoclonal-antibody-mab-structure-molecular-visualization.fe63964a.jpg)
+
+#### Monoclonal Antibodies
+
+Increase productivity, optimize purification, and scale with confidence.
+
+[Read More](https://www.repligen.com/modalities/antibodies-proteins)
+
+![3D molecular visualization of an antibody‑drug conjugate (ADC) structure used in advanced biologics and targeted therapeutic development.](https://www.repligen.com/Categories/21506/image-thumb__21506__width278/antibody-drug-conjugate-adc-molecular-structure-visualization.83289037.jpg)
+
+#### ADCs
+
+Improve control and reduce risk in complex workflows.
+
+[Read More](https://www.repligen.com/ADC)
+
+![Visualization of messenger RNA (mRNA) molecular structure used in mRNA therapeutics and vaccine manufacturing workflows, including purification, LNP formulation, and scalable bioprocess development. ](https://www.repligen.com/Categories/21507/image-thumb__21507__width278/messenger-rna-mrna-molecular-structure-visualization.8abd62b1.jpg)
+
+#### mRNA
+
+Enable fast, flexible manufacturing and scale-up.
+
+[Read More](https://www.repligen.com/modalities/mrna)
+
+![3D molecular visualization of circular plasmid DNA structure used in gene therapy, cell therapy, and advanced biomanufacturing workflows.](https://www.repligen.com/Categories/21508/image-thumb__21508__width278/plasmid-dna-circular-structure-molecular-visualization.93f4c52c.jpg)
+
+#### pDNA
+
+Support robust plasmid production with filtration, chromatography, PAT, and fluid management solutions.
+
+[Read More](https://www.repligen.com/modalities/pdna)
+
+![3D molecular visualization of an adeno‑associated virus (AAV) vector used for gene therapy and viral vector delivery applications.](https://www.repligen.com/Categories/21510/image-thumb__21510__width278/adeno-associated-virus-aav-vector-molecular-structure.a6b2446a.jpg)
+
+#### Viral Vectors
+
+Improve productivity and scale viral vector processes.
+
+[Read More](https://www.repligen.com/modalities/viral-vectors)
+
+### Why teams choose Repligen
+
+Repligen focuses on the steps that matter most where better process control, reproducibility, and productivity directly impact timelines, cost, and supply.
+
+Our solutions span process intensification, TFF, chromatography, process analytics, and single-use fluid management across upstream and downstream workflows.
+
+![](https://www.repligen.com/Icons/accordion/H_PPT%20Icon%20circled%20blue_Performance%26Efficiency_High-Performance_M.svg)
+
+#### Higher Productivity<br>Produce more drug in less time.
+
+![](https://www.repligen.com/Icons/accordion/H_PPT%20Icon%20circled%20blue_Performance%26Efficiency_Consistent_M.svg)
+
+#### Process Robustness<br>Reduce variability at critical steps.
+
+![](https://www.repligen.com/Icons/accordion/H_PPT%20Icon%20circled%20blue_Performance%26Efficiency_Short-Lead-Time_Saving-Time_C.svg)
+
+#### Faster Timelines<br>Move from development to GMP with fewer delays.
+
+![](https://www.repligen.com/Icons/accordion/H_PPT%20Icon%20circled%20blue_Performance%26Efficiency_Flexible_M.svg)
+
+#### Modality Flexibility<br>Support today's pipeline and what comes next.
+
+###### Built for Every Decision-Maker
+
+### What each team needs to move forward
+
+- ##### Process Development Scientists
+
+  Accelerate optimization and improve process understanding earlier.
+- ##### MSAT Engineers
+
+  Reduce transfer risk and scale with consistency.
+- ##### Procurement & Operations
+
+  Simplify deployment and improve supply reliability.
+- ##### Leadership
+
+  Increase yield, reduce cost, and shorten timelines.
+
+[Speak to an Expert](https://www.repligen.com/support/contact-overview/contact)
+
+![Scientists analyzing cell culture images and experimental data at a laboratory workstation with microscopes and digital imaging systems.](https://www.repligen.com/_default_upload_bucket/21521/image-thumb__21521__width684/laboratory-data-analysis-cell-culture-microscopy-workflow.93828737.jpg)
+
+###### Products
+
+### Core technologies. Clear outcomes.
+
+Each platform is designed to improve yield, speed, and control across modalities and at every scale.
+
+![Repligen XCell ATF single‑use perfusion system with controller and hollow fiber module used for intensified cell culture processes.](https://www.repligen.com/Products/xcell-atf/21519/image-thumb__21519__width268/repligen-xcell-atf-single-use-perfusion-system.182161fb.jpg)
+
+#### Upstream Filtration
+
+Increase productivity with perfusion and ATF technologies designed to improve space-time yield.
+
+[Read More](https://www.repligen.com/products/upstream-filtration)
+
+![Repligen KrosFlo RS 10 tangential flow filtration (TFF) system with automated control console and scale for bioprocessing. ](https://www.repligen.com/Products/krosflo_tff/krosflo_rs_systems/21517/image-thumb__21517__width268/repligen-krosflo-rs10-tff-system-front-view.353a9977.jpg)
+
+#### Downstream Filtration
+
+Optimize UF/DF with TFF solutions engineered for efficient processing and strong product recovery.
+
+[Read More](https://www.repligen.com/products/downstream-filtration)
+
+![Chromatography System featuring a stainless steel industrial design, integrated touchscreen interface, and OPUS 25 pre-packed chromatography column for automated downstream bioprocessing ](https://www.repligen.com/Categories/21511/image-thumb__21511__width268/repligen-krm-multi-column-chromatography-system.9ec10a96.jpg)
+
+#### Chromatography
+
+Streamline purification with pre-packed columns and scalable systems.
+
+[Read More](https://www.repligen.com/products/chromatography)
+
+![Repligen PATsmart product family featuring ZipChip, MAVEN, REBEL XT, FlowVPX, and SoloVPE Plus analytical instruments for bioprocessing and PAT applications](https://www.repligen.com/Categories/21512/image-thumb__21512__width268/repligen-patsmart-analytics-instrument-product-family.941bb4f5.jpg)
+
+#### Process Analytics / PAT
+
+Monitor critical parameters in real time to reduce risk.
+
+[Read More](https://www.repligen.com/products/analytics)
+
+![Repligen ProConnex MixOne RG-X single-use mixing system featuring Metenova Zero Gravity technology and RG-V film for sterile, low-shear bioprocessing and vaccine manufacturing.  ](https://www.repligen.com/Categories/21513/image-thumb__21513__width268/repligen-rgx-pro-single-use-mixing-system.24258855.jpg)
+
+#### Single-Use Fluid Management
+
+Simplify fluid handling with scalable, ready-to-use systems.
+
+[Read More](https://www.repligen.com/products/fluid-management)
+
+### Increase productivity without increasing footprint
+
+Repligen’s process intensification approach combines perfusion, TFF, process analytics, and single-use systems to help you achieve higher cell densities, better product quality, and improved space-time yield without expanding facilities.
+
+[Explore Process Intensification](https://www.repligen.com/solutions/process-intensification/perfusion)
+
+![ Repligen XCell ATF System family including Lab and LS controllers with single-use and stainless steel devices for upstream process intensification.](https://www.repligen.com/Products/xcell-atf/3612/image-thumb__3612___auto_40cd750bba9870f18aada2478b24840a/repligen-xcell-bioprocessing-system-product-family.jpg.59660b62.png)
+
+### Trusted across biopharmaceutical manufacturing
+
+- Supporting the world’s leading biopharma and CDMO companies
+- Deployed in process development and GMP facilities
+
+- Proven in clinical and commercial processes
+- Award winning innovations and technologies
+
+##### Our solutions are used in yield-critical and time-critical steps where better control and reproducibility directly impact performance.
+
+![](https://www.repligen.com/_default_upload_bucket/21504/image-thumb__21504__width1208/1059_ID_Workflow-noBG_2000x1125_22Apr2026.44b31aa4.png)
+
+![](https://www.repligen.com/Icons/accordion/E_PPT%20Icon%20circled%20blue_Technology%26Systems_Closed-System_M.svg)
+
+###### Looking Ahead
+
+### Building more connected, controllable processes
+
+Bioprocessing is moving toward continuous manufacturing and real-time control. Repligen helps teams get there with integrated analytics, UF/DF optimization, and technologies that enable more predictable, data-driven processes:
+
+- Products Designed for Continuous Processing
+- Real-Time Analytics
+- Automation & Integration Solutions
+- AI-Enabled Tools for Optimization
+- Solutions Enabling Flexible Manufacturing
+
+[Learn More](https://www.repligen.com/products)
+
+###### Resources
+
+### Practical insights for process development and scale-up
+
+[Carousel header call to action]()
+
+![](https://www.repligen.com/Icons/accordion/21266/image-thumb__21266__width424/C_PPT%20Icon%20circled%20blue_RepligenSpecificProducts_KrosFlo-TFF-Systems_C.59fe52a1.png)
+
+TFF Guide
+
+Understand system selection, scaling, and performance.
+
+[Read the Guide](https://www.repligen.com/unit-operations/uf-df/tangential-flow-filtration-guide)
+
+![](https://www.repligen.com/Icons/accordion/21267/image-thumb__21267__width424/C_PPT%20Icon%20circled%20blue_RepligenSpecificProducts_KrosFlo-TFDF-Systems_C.ac3b86d7.png)
+
+Process Intensification
+
+Improve productivity and space-time yield.
+
+[Explore Strategies](https://www.repligen.com/landing-pages/economics-mab-perfusion-process-intensification)
+
+![](https://www.repligen.com/Icons/accordion/21268/image-thumb__21268__width424/C_PPT%20Icon%20circled%20blue_RepligenSpecificProducts_CTech-SoloVPE-and-Plus-Systems_C.757b978b.png)
+
+Process Analytics
+
+Improve control and reduce variability.
+
+[Explore Process Analytics Solutions](https://www.repligen.com/solutions/process-analytics/process-analytics-overview)
+
+![Arrow pointing left](https://www.repligen.com/static/img/icons/carousel-default-left.svg) ![Arrow pointing left](https://www.repligen.com/static/img/icons/carousel-default-left-mobile.svg)
+
+![Arrow pointing right](https://www.repligen.com/static/img/icons/carousel-default-right.svg) ![Arrow pointing right](https://www.repligen.com/static/img/icons/carousel-default-right-mobile.svg)
+
+### Build the right process. Scale with confidence.
+
+Whether you are developing mAbs, scaling mRNA, or advancing cell and gene therapies, Repligen helps you design processes that are more productive, more reproducible, and ready for scale.
+
+[Explore Solutions by Modality](https://www.repligen.com/modalities)
+
+[Speak to an Expert](https://www.repligen.com/support/contact-overview/contact)
+
+![Close modal](https://www.repligen.com/static/img/icons/close-icon-v4.svg)
+
+## A new look. A better way to explore Repligen.
+
+We’ve redesigned Repligen.com to help you find the right solutions faster, with greater clarity and less effort.
+
+![](https://www.repligen.com/Icons/accordion/H_PPT%20Icon%20circled%20blue_Performance%26Efficiency_Efficient_M.svg)
+
+**Find what you need faster**  
+Get to the right information with quicker site speed
+
+![](https://www.repligen.com/Icons/accordion/F_PPT%20Icon%20circled%20blue_Corporate%26Operations_Whitepaper_C.svg)
+
+**Explore the site with ease**  
+Navigate easily with an intuitive, simple site structure
+
+![](https://www.repligen.com/Icons/accordion/H_PPT%20Icon%20circled%20blue_Performance%26Efficiency_Walk-Away-Automation_C.svg)
+
+**Access product details instantly**  
+Find products and resources faster, in fewer clicks
+
+![](https://www.repligen.com/Icons/accordion/F_PPT%20Icon%20circled%20blue_Corporate%26Operations_Customer-Service_M_v2.svg)
+
+**Get support when you need it**  
+Connect with our team when you need support
